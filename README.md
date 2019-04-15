@@ -5,4 +5,4 @@ how the introduction of media queries enabled designers to build experiences for
 
 - Understand why media queries are an essential part of the modern web
 - Identify why mobile-first design is an industry best practice
-- Use media queries to build your first responsive site
+- Use media queries to build first responsive site
